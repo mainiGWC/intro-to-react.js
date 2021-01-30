@@ -9,3 +9,10 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+const currentUser = {
+  id: 1234,
+  profileImg: "human-profile.png",
+  name: "Maya the Villager",
+  birthday: "June 13th",
+}
